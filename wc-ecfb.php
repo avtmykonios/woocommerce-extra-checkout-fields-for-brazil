@@ -271,7 +271,7 @@ class WC_BrazilianCheckoutFields {
 			array(
 				'menu' => $option,
 				'id' => 'person_type',
-				'label' => __( 'If checked show the Person Type option and CPF, Company and CNJP fields in billing options.', 'wcbcf' )
+				'label' => __( 'If checked show the Person Type option and CPF, Company and CNPJ fields in billing options.', 'wcbcf' )
 			)
 		);
 
